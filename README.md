@@ -1,2 +1,2 @@
 # Diplom
-Robot vacuum cleaner control system. PyGame + Keras +Pandas.
+Robot vacuum cleaner control system. PyGame + Keras + Pandas.
